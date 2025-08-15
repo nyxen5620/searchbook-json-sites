@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Google",
+    "url": "https://www.google.com",
+    "description": "O principal motor de busca da internet.",
+    "tags": ["busca", "tecnologia", "Google"]
+  },
+  {
+    "title": "YouTube",
+    "url": "https://www.youtube.com",
+    "description": "Plataforma de compartilhamento de vídeos.",
+    "tags": ["vídeos", "entretenimento", "Google"]
+  },
+  {
+    "title": "Facebook",
+    "url": "https://www.facebook.com",
+    "description": "Rede social para conectar amigos e familiares.",
+    "tags": ["social", "Meta", "rede social"]
+  },
+  {
+    "title": "Instagram",
+    "url": "https://www.instagram.com",
+    "description": "Aplicativo de compartilhamento de fotos e vídeos.",
+    "tags": ["social", "Meta", "fotos"]
+  },
+  {
+    "title": "ChatGPT",
+    "url": "https://www.chatgpt.com",
+    "description": "Assistente virtual baseado em IA da OpenAI.",
+    "tags": ["IA", "OpenAI", "assistente"]
+  },
+  {
+    "title": "X (anteriormente Twitter)",
+    "url": "https://www.x.com",
+    "description": "Plataforma de microblogging e rede social.",
+    "tags": ["social", "microblog", "X Corp."]
+  },
+  {
+    "title": "Reddit",
+    "url": "https://www.reddit.com",
+    "description": "Fórum de discussões e agregador de notícias.",
+    "tags": ["fórum", "comunidade", "notícias"]
+  },
+  {
+    "title": "WhatsApp",
+    "url": "https://www.whatsapp.com",
+    "description": "Aplicativo de mensagens instantâneas.",
+    "tags": ["mensagens", "Meta", "comunicação"]
+  },
+  {
+    "title": "Microsoft Bing",
+    "url": "https://www.bing.com",
+    "description": "Motor de busca da Microsoft.",
+    "tags": ["busca", "Microsoft", "tecnologia"]
+  },
+  {
+    "title": "Wikipedia",
+    "url": "https://www.wikipedia.org",
+    "description": "Enciclopédia colaborativa online.",
+    "tags": ["conhecimento", "enciclopédia", "Wikimedia"]
+  },
+  {
+    "title": "Yahoo",
+    "url": "https://www.yahoo.com",
+    "description": "Portal de notícias e serviços online.",
+    "tags": ["notícias", "portal", "Yahoo Inc."]
+  },
+  {
+    "title": "Amazon",
+    "url": "https://www.amazon.com",
+    "description": "Maior varejista online do mundo.",
+    "tags": ["compras", "varejo", "Amazon Inc."]
+  },
+  {
+    "title": "TikTok",
+    "url": "https://www.tiktok.com",
+    "description": "Plataforma de vídeos curtos e virais.",
+    "tags": ["vídeos", "ByteDance", "entretenimento"]
+  },
+  {
+    "title": "Baidu",
+    "url": "https://www.baidu.com",
+    "description": "Motor de busca chinês.",
+    "tags": ["busca", "China", "tecnologia"]
+  },
+  {
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com",
+    "description": "Rede social profissional.",
+    "tags": ["profissional", "rede social", "Microsoft"]
+  },
+  {
+    "title": "Pinterest",
+    "url": "https://www.pinterest.com",
+    "description": "Plataforma de descoberta e compartilhamento de ideias.",
+    "tags": ["ideias", "social", "imagens"]
+  },
+  {
+    "title": "Netflix",
+    "url": "https://www.netflix.com",
+    "description": "Serviço de streaming de filmes e séries.",
+    "tags": ["streaming", "entretenimento", "Netflix Inc."]
+  },
+  {
+    "title": "Twitch",
+    "url": "https://www.twitch.tv",
+    "description": "Plataforma de transmissão ao vivo focada em jogos.",
+    "tags": ["streaming", "jogos", "Amazon Inc."]
+  },
+  {
+    "title": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "description": "Empresa de tecnologia e software.",
+    "tags": ["software", "tecnologia", "Microsoft"]
+  },
+  {
+    "title": "Weather.com",
+    "url": "https://www.weather.com",
+    "description": "Serviço de previsão do tempo.",
+    "tags": ["tempo", "previsão", "The Weather Channel"]
+  }
+]
